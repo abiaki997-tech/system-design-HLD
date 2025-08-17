@@ -1,0 +1,15 @@
+{
+  "name": "kafka",
+  "version": "1.0.0",
+  "description": "<details>\r   <summary>system design projects</summary> \r   <summary>DESIGN A RATE LIMITER - **completed**</summary>\r   <summary>DESIGN CONSISTENT HASHING</summary>\r   <summary>DESIGN A KEY-VALUE STORE</summary>\r   <summary>DESIGN A UNIQUE ID GENERATOR IN\r  DISTRIBUTED SYSTEMS </summary>\r   <summary>DESIGN A URL SHORTENER</summary>\r   <summary>DESIGN A WEB CRAWLER</summary>\r   <summary>DESIGN A NOTIFICATION SYSTEM</summary>\r   <summary>DESIGN A NEWS FEED SYSTEM</summary>\r   <summary>DESIGN A CHAT SYSTEM</summary>\r   <summary>DESIGN A SEARCH AUTOCOMPLETE\r  SYSTEM</summary>\r   <summary>DESIGN YOUTUBE</summary>\r   <summary>DESIGN GOOGLE DRIVE</summary>\r   <summary>Design Payment Gateway</summary>\r </details>",
+  "main": "consumer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "kafkajs": "^2.2.4"
+  }
+}
